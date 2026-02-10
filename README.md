@@ -3,6 +3,7 @@
 2D платформер, созданный на Unity с использованием C#.
 
 ## Gameplay
+![Gameplay](screenshots/gameplay_1.png)
 
 
 ## Features
